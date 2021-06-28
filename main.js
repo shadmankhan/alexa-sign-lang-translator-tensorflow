@@ -657,6 +657,7 @@ class SpeechToText {
   }
 }
 
+// Initiation of the Application
 let main = null;
 
 window.addEventListener("load", () => {
