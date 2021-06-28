@@ -709,6 +709,9 @@ var SpeechToText = function () {
   return SpeechToText;
 }();
 
+// Initiation of the Application
+
+
 var main = null;
 
 window.addEventListener("load", function () {
